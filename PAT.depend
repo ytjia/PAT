@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1379927619 source:d:\github\pat\1064complete binary search tree.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+
