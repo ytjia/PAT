@@ -40,6 +40,7 @@ int main()
     int tag;
     long long radix;
     string N1, N2;
+//    start: // debug
     cin >> N1 >> N2 >> tag >> radix;
 
     string tar, des;
@@ -74,5 +75,6 @@ int main()
     }
     if (!flag)
         cout << "Impossible" << endl;
+//    goto start; // debug
     return 0;
 }

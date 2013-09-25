@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="1064Complete Binary Search Tree.cpp" />
+		<Unit filename="1062.Talent_and_Virtue.cpp" />
 		<Extensions>
 			<DoxyBlocks>
 				<comment_style block="0" line="0" />

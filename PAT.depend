@@ -13,3 +13,33 @@
 	<queue>
 	<string>
 
+1380018693 source:d:\github\pat\1058.a+b_in_hogwarts.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1380078694 source:d:\github\pat\1063.set_similarity.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<vector>
+	<set>
+
+1380084764 source:d:\github\pat\1062.talent_and_virtue.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<vector>
+	<set>
+	<algorithm>
+
+1380099150 source:d:\github\pat\1061.dating.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<vector>
+	<set>
+	<algorithm>
+	<string>
+	<iomanip>
+

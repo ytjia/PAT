@@ -1,4 +1,5 @@
 *.cpp.save
+*.save
 *.o
 obj/  
 bin/
