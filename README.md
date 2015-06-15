@@ -1,7 +1,7 @@
-PAT
+PAT exercise code
 ===
 
 PAT, Programming Ability Test.  
 PAT(Advanced Level) code.  
-Coding in Cpp.  
-Enjoy it.  
+
+Website: http://www.patest.cn/
